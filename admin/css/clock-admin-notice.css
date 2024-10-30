@@ -1,0 +1,31 @@
+.btcl-notice {
+    padding: 20px;
+}
+
+.btcl-notice.notice.notice-success.is-dismissible {
+    align-items: center;
+    display: flex;
+}
+
+i.fas.fa-star.go-pro-icon {
+    color: #ff8c4e;
+}
+
+.btcl-notice__content h4 {
+    margin-bottom: 0;
+}
+
+.btcl-notice__content p {
+    margin-top:  2px;
+}
+
+.btcl-notice__content h3 {
+    margin-top: 0;
+    color: #8f42ec;
+    border: 2px dashed #8f42ec;
+    font-size: 20px;
+    padding: 13px 15px;
+    font-weight: 700;
+    margin-bottom: 18px;
+    border-radius: 6px;
+}

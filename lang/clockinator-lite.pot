@@ -1,0 +1,1986 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-26 22:37+0530\n"
+"PO-Revision-Date: 2021-09-26 22.37+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: clockify-lite.php:59 admin/inc/controllers/clock-menu-panel.php:82
+msgid "Go Pro"
+msgstr ""
+
+#: clockify-lite.php:60 admin/inc/controllers/clock-help-panel.php:25
+#: admin/inc/controllers/clock-products-panel.php:19
+#: admin/inc/controllers/clock-products-panel.php:34
+msgid "Buy Now"
+msgstr ""
+
+#: admin/clock-admin-notice.php:8
+#, php-format
+msgid ""
+"Upgrade to Clockinator Pro now & Get upto 50% discount!, Get Pro in just $28 "
+"for Lifetime Updates & Premium Support."
+msgstr ""
+
+#: admin/clock-admin-notice.php:9
+msgid ""
+"You will get advance features & option to track your employees working "
+"activites, Attandence Reports, Leaves, Holidays, Working Hours, Shifts, "
+"Departments, Salary calculation, Payroll, Payslip, Projects, Tasks and many "
+"more.!"
+msgstr ""
+
+#: admin/clock-admin-notice.php:11
+#: admin/inc/controllers/clock-help-panel.php:23
+#: admin/inc/controllers/clock-products-panel.php:17
+#: admin/inc/controllers/clock-products-panel.php:32
+msgid "View More"
+msgstr ""
+
+#: admin/clock-admin-notice.php:12
+#: admin/inc/controllers/clock-help-panel.php:24
+#: admin/inc/controllers/clock-products-panel.php:18
+#: admin/inc/controllers/clock-products-panel.php:33
+msgid "View Demo"
+msgstr ""
+
+#: admin/clock-admin-notice.php:13
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin/inc/actions/clock-department-actions.php:27
+#: admin/inc/actions/clock-employees-actions.php:174
+#: admin/inc/actions/clock-events-actions.php:44
+#: admin/inc/actions/clock-holidays-actions.php:41
+#: admin/inc/actions/clock-shift-actions.php:34
+#: public/inc/actions/clock-leaves-actions.php:44
+msgid "Data Insert Successfully."
+msgstr ""
+
+#: admin/inc/actions/clock-department-actions.php:30
+#: admin/inc/actions/clock-employees-actions.php:177
+#: admin/inc/actions/clock-events-actions.php:47
+#: admin/inc/actions/clock-holidays-actions.php:44
+#: admin/inc/actions/clock-shift-actions.php:37
+#: public/inc/actions/clock-leaves-actions.php:47
+msgid "Data Not Insert Successfully."
+msgstr ""
+
+#: admin/inc/actions/clock-department-actions.php:34
+#: admin/inc/actions/clock-department-actions.php:70
+#: admin/inc/actions/clock-department-actions.php:113
+#: admin/inc/actions/clock-department-actions.php:140
+#: admin/inc/actions/clock-employees-actions.php:29
+#: admin/inc/actions/clock-employees-actions.php:190
+#: admin/inc/actions/clock-employees-actions.php:266
+#: admin/inc/actions/clock-employees-actions.php:332
+#: admin/inc/actions/clock-employees-actions.php:359
+#: admin/inc/actions/clock-events-actions.php:52
+#: admin/inc/actions/clock-events-actions.php:90
+#: admin/inc/actions/clock-events-actions.php:135
+#: admin/inc/actions/clock-events-actions.php:162
+#: admin/inc/actions/clock-holidays-actions.php:49
+#: admin/inc/actions/clock-holidays-actions.php:89
+#: admin/inc/actions/clock-holidays-actions.php:142
+#: admin/inc/actions/clock-holidays-actions.php:169
+#: admin/inc/actions/clock-reports-actions.php:132
+#: admin/inc/actions/clock-reports-actions.php:255
+#: admin/inc/actions/clock-requests-actions.php:41
+#: admin/inc/actions/clock-requests-actions.php:101
+#: admin/inc/actions/clock-requests-actions.php:147
+#: admin/inc/actions/clock-shift-actions.php:42
+#: admin/inc/actions/clock-shift-actions.php:82
+#: admin/inc/actions/clock-shift-actions.php:129
+#: admin/inc/actions/clock-shift-actions.php:156
+#: admin/inc/actions/clock-target-actions.php:141
+#: public/inc/actions/clock-btn-actions.php:57
+#: public/inc/actions/clock-btn-actions.php:112
+#: public/inc/actions/clock-btn-actions.php:177
+#: public/inc/actions/clock-btn-actions.php:237
+#: public/inc/actions/clock-btn-actions.php:274
+#: public/inc/actions/clock-leaves-actions.php:52
+#: public/inc/actions/clock-leaves-actions.php:94
+#: public/inc/actions/clock-leaves-actions.php:154
+#: public/inc/actions/clock-leaves-actions.php:181
+#: public/inc/actions/clock-profile-actions.php:64
+#: public/inc/actions/clock-reports-actions.php:118
+#: public/inc/actions/clock-reports-actions.php:238
+#: public/inc/actions/clock-reports-actions.php:265
+msgid "Something went wrong!."
+msgstr ""
+
+#: admin/inc/actions/clock-department-actions.php:55
+#: admin/inc/actions/clock-employees-actions.php:20
+#: admin/inc/actions/clock-employees-actions.php:211
+#: admin/inc/actions/clock-events-actions.php:73
+#: admin/inc/actions/clock-holidays-actions.php:70
+#: admin/inc/actions/clock-requests-actions.php:20
+#: admin/inc/actions/clock-shift-actions.php:63
+#: public/inc/actions/clock-leaves-actions.php:73
+msgid "Data fetched!."
+msgstr ""
+
+#: admin/inc/actions/clock-department-actions.php:106
+#: admin/inc/actions/clock-employees-actions.php:325
+#: admin/inc/actions/clock-events-actions.php:128
+#: admin/inc/actions/clock-holidays-actions.php:135
+#: admin/inc/actions/clock-requests-actions.php:94
+#: admin/inc/actions/clock-shift-actions.php:122
+#: public/inc/actions/clock-leaves-actions.php:147
+#: public/inc/actions/clock-profile-actions.php:56
+msgid "Data updated successfully."
+msgstr ""
+
+#: admin/inc/actions/clock-department-actions.php:109
+#: admin/inc/actions/clock-employees-actions.php:328
+#: admin/inc/actions/clock-events-actions.php:131
+#: admin/inc/actions/clock-holidays-actions.php:138
+#: admin/inc/actions/clock-requests-actions.php:97
+#: admin/inc/actions/clock-shift-actions.php:125
+#: public/inc/actions/clock-leaves-actions.php:150
+#: public/inc/actions/clock-profile-actions.php:59
+msgid "Data not updated successfully."
+msgstr ""
+
+#: admin/inc/actions/clock-department-actions.php:133
+#: admin/inc/actions/clock-employees-actions.php:352
+#: admin/inc/actions/clock-events-actions.php:155
+#: admin/inc/actions/clock-holidays-actions.php:162
+#: admin/inc/actions/clock-requests-actions.php:139
+#: admin/inc/actions/clock-shift-actions.php:149
+#: admin/inc/actions/clock-target-actions.php:133
+#: public/inc/actions/clock-leaves-actions.php:174
+msgid "Data deleted successfully."
+msgstr ""
+
+#: admin/inc/actions/clock-department-actions.php:136
+#: admin/inc/actions/clock-employees-actions.php:355
+#: admin/inc/actions/clock-events-actions.php:158
+#: admin/inc/actions/clock-holidays-actions.php:165
+#: admin/inc/actions/clock-requests-actions.php:142
+#: admin/inc/actions/clock-shift-actions.php:152
+#: admin/inc/actions/clock-target-actions.php:136
+#: public/inc/actions/clock-leaves-actions.php:177
+msgid "Data not deleted successfully."
+msgstr ""
+
+#: admin/inc/actions/clock-employees-actions.php:91
+msgid "User created successfully."
+msgstr ""
+
+#: admin/inc/actions/clock-employees-actions.php:93
+msgid "New Account Login Details"
+msgstr ""
+
+#: admin/inc/actions/clock-employees-actions.php:95
+msgid "Your account new created on"
+msgstr ""
+
+#: admin/inc/actions/clock-employees-actions.php:96
+msgid "Username:- "
+msgstr ""
+
+#: admin/inc/actions/clock-employees-actions.php:97
+msgid "Password:- "
+msgstr ""
+
+#: admin/inc/actions/clock-employees-actions.php:102
+msgid "User already exists. Please enter different email."
+msgstr ""
+
+#: admin/inc/actions/clock-events-actions.php:29
+msgid "Please enter name."
+msgstr ""
+
+#: admin/inc/actions/clock-events-actions.php:31
+msgid "Please select event date."
+msgstr ""
+
+#: admin/inc/actions/clock-events-actions.php:33
+msgid "Please enter description."
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:70
+#: public/inc/actions/clock-reports-actions.php:67
+msgid "Present"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:71
+#: admin/inc/controllers/clock-departments-panel.php:141
+#: admin/inc/controllers/clock-employees-panel.php:667
+#: admin/inc/controllers/clock-events-panel.php:137
+#: admin/inc/controllers/clock-holidays-panel.php:182
+#: admin/inc/controllers/clock-leaves-panel.php:122
+#: admin/inc/controllers/clock-shifts-panel.php:208
+#: public/clock-shortcode.php:269
+#: public/inc/actions/clock-reports-actions.php:68
+#: public/inc/views/clock-leaves.php:46
+msgid "View"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:73
+msgid "Edit"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:86
+#: admin/inc/actions/clock-reports-actions.php:87
+#: admin/inc/actions/clock-reports-actions.php:88
+#: admin/inc/actions/clock-reports-actions.php:89
+#: admin/inc/actions/clock-reports-actions.php:90
+#: admin/inc/actions/clock-reports-actions.php:91
+#: admin/inc/actions/clock-reports-actions.php:92
+#: public/inc/actions/clock-reports-actions.php:81
+#: public/inc/actions/clock-reports-actions.php:82
+#: public/inc/actions/clock-reports-actions.php:83
+#: public/inc/actions/clock-reports-actions.php:84
+msgid "Off day!"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:105
+#: public/inc/actions/clock-reports-actions.php:94
+msgid "Holiday"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:118
+#: public/inc/actions/clock-reports-actions.php:104
+msgid "Absent"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:128
+#: public/inc/actions/clock-reports-actions.php:114
+msgid "Report generated successfully!"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:181
+#: public/inc/actions/clock-reports-actions.php:166
+msgid "Work Session"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:183
+#: public/inc/actions/clock-reports-actions.php:168
+msgid "Clock In Time"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:185
+#: admin/inc/actions/clock-reports-actions.php:191
+#: admin/inc/actions/clock-reports-actions.php:197
+#: admin/inc/actions/clock-reports-actions.php:226
+#: admin/inc/actions/clock-reports-actions.php:232
+#: admin/inc/actions/clock-reports-actions.php:238
+#: public/inc/actions/clock-reports-actions.php:170
+#: public/inc/actions/clock-reports-actions.php:176
+#: public/inc/actions/clock-reports-actions.php:182
+#: public/inc/actions/clock-reports-actions.php:210
+#: public/inc/actions/clock-reports-actions.php:216
+#: public/inc/actions/clock-reports-actions.php:222
+msgid "HH:MM:SS"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:189
+#: public/inc/actions/clock-reports-actions.php:174
+msgid "Clock Out Time"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:195
+#: admin/inc/controllers/clock-reports-panel.php:92
+#: public/inc/actions/clock-reports-actions.php:180
+msgid "Working Hours"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:201
+#: public/inc/actions/clock-reports-actions.php:186
+msgid "Work Report"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:222
+#: public/inc/actions/clock-reports-actions.php:206
+msgid "Break Session "
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:224
+msgid "Break In Time"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:230
+#: public/inc/actions/clock-reports-actions.php:214
+msgid "Break Out Time"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:236
+#: public/inc/actions/clock-reports-actions.php:220
+msgid "Total Break Time"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:245
+#: public/inc/actions/clock-reports-actions.php:229
+msgid "Working hours according to all work sessions"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:246
+#: public/inc/actions/clock-reports-actions.php:230
+msgid "Total break time according to all break sessions"
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:247
+#: public/inc/actions/clock-reports-actions.php:231
+msgid "Total working hours after eliminating break time for date ( "
+msgstr ""
+
+#: admin/inc/actions/clock-reports-actions.php:252
+#: public/inc/actions/clock-reports-actions.php:235
+msgid "Detailed report generated!"
+msgstr ""
+
+#: admin/inc/actions/clock-settings-actions.php:35
+msgid "Please select TimeZone"
+msgstr ""
+
+#: admin/inc/actions/clock-settings-actions.php:38
+msgid "Please select Date format"
+msgstr ""
+
+#: admin/inc/actions/clock-settings-actions.php:41
+msgid "Please select time format"
+msgstr ""
+
+#: admin/inc/actions/clock-settings-actions.php:44
+msgid "Please enter half start time"
+msgstr ""
+
+#: admin/inc/actions/clock-settings-actions.php:47
+msgid "Please enter half end time"
+msgstr ""
+
+#: admin/inc/actions/clock-settings-actions.php:50
+msgid "Please enter currency symbol"
+msgstr ""
+
+#: admin/inc/actions/clock-settings-actions.php:53
+msgid "Please select currency position"
+msgstr ""
+
+#: admin/inc/actions/clock-settings-actions.php:83
+msgid "Settings updated successfully"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:11
+#: admin/inc/controllers/clock-reports-panel.php:90
+#: admin/inc/helpers/clock-helper.php:825
+#: admin/inc/settings/clock-string-translation.php:4
+#: admin/inc/settings/clock-string-translation.php:23
+#: public/clock-shortcode.php:194 public/inc/views/clock-reports.php:65
+msgid "Clock In"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:12
+#: admin/inc/controllers/clock-reports-panel.php:91
+#: admin/inc/helpers/clock-helper.php:826
+#: admin/inc/settings/clock-string-translation.php:5
+#: admin/inc/settings/clock-string-translation.php:31
+#: public/clock-shortcode.php:195 public/inc/views/clock-reports.php:66
+msgid "Clock Out"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:13
+#: admin/inc/helpers/clock-helper.php:827
+#: admin/inc/settings/clock-string-translation.php:6
+#: admin/inc/settings/clock-string-translation.php:39
+msgid "Break In"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:14
+#: admin/inc/helpers/clock-helper.php:828
+#: admin/inc/settings/clock-string-translation.php:7
+#: admin/inc/settings/clock-string-translation.php:47
+msgid "Break Out"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:15
+#: admin/inc/helpers/clock-helper.php:829
+#: admin/inc/settings/clock-string-translation.php:8
+#: admin/inc/settings/clock-string-translation.php:55
+msgid "Submit Session Report"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:16
+#: admin/inc/settings/clock-string-translation.php:9
+#: public/clock-shortcode.php:462 public/inc/views/clock-dashboard.php:8
+msgid "Up coming Holidays"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:17
+#: admin/inc/settings/clock-string-translation.php:10
+#: public/clock-shortcode.php:488 public/inc/views/clock-dashboard.php:9
+msgid "Up coming Events"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:18
+#: admin/inc/settings/clock-string-translation.php:11
+#: admin/inc/settings/clock-string-translation.php:79
+#: public/clock-shortcode.php:132 public/inc/views/clock-reports.php:4
+msgid "Attendance Report"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:19
+#: admin/inc/settings/clock-string-translation.php:12
+#: admin/inc/settings/clock-string-translation.php:87
+#: public/clock-shortcode.php:225 public/inc/views/clock-leaves.php:3
+msgid "Leave requests"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:20
+#: admin/inc/settings/clock-string-translation.php:13
+#: admin/inc/settings/clock-string-translation.php:95
+#: public/inc/views/clock-profile.php:16
+msgid "Your profile"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:25
+msgid "Please enter string for Clock In button"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:28
+msgid "Please enter string for Clock Out button"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:31
+msgid "Please enter string for Break In button"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:34
+msgid "Please enter string for Break Out button"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:37
+msgid "Please enter string for Submit session button"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:40
+msgid "Please enter string for Upcoming holiday heading"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:43
+msgid "Please enter string for Upcoming Events heading"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:46
+msgid "Please enter string for Attendance Report heading"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:49
+msgid "Please enter string for Leave requests heading"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:52
+msgid "Please enter string for Your Profile heading"
+msgstr ""
+
+#: admin/inc/actions/clock-strings-actions.php:71
+msgid "Strings updated successfully"
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:25
+#: admin/inc/actions/clock-target-actions.php:80
+msgid "Please enter target title."
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:28
+#: admin/inc/actions/clock-target-actions.php:83
+msgid "Please select target start date."
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:31
+#: admin/inc/actions/clock-target-actions.php:86
+msgid "Please select target end date."
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:34
+#: admin/inc/actions/clock-target-actions.php:89
+msgid "Please select employee."
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:37
+#: admin/inc/actions/clock-target-actions.php:92
+msgid "Please enter target value."
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:55
+msgid "Target created successfully"
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:57
+msgid "Target not created"
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:113
+msgid "Target edited successfully"
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:115
+msgid "Target not edited"
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:166
+msgid "Please select date for record."
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:169
+msgid "Please enter target record value."
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:206
+msgid "Record added successfully"
+msgstr ""
+
+#: admin/inc/actions/clock-target-actions.php:208
+msgid "Record not added"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:41
+#: public/inc/views/clock-dashboard.php:63
+msgid "Hello, "
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:43
+#: public/inc/views/clock-dashboard.php:65
+msgid "Welcome Back"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:53
+#: admin/inc/controllers/clock-employees-panel.php:16
+#: admin/inc/controllers/clock-menu-panel.php:22
+#: admin/inc/views/nav/nav.php:35
+msgid "Employees"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:61
+#: admin/inc/controllers/clock-leaves-panel.php:16
+msgid "Leave Requests"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:69
+#: admin/inc/controllers/clock-departments-panel.php:12
+#: admin/inc/controllers/clock-menu-panel.php:28
+#: admin/inc/views/nav/nav.php:41
+msgid "Departments"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:77
+#: admin/inc/controllers/clock-menu-panel.php:34
+#: admin/inc/controllers/clock-shifts-panel.php:15
+#: admin/inc/views/nav/nav.php:47
+msgid "Shifts"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:87
+msgid "Employee's target leaderboard"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:92
+#: admin/inc/controllers/clock-dashboard-panel.php:160
+#: public/clock-shortcode.php:236 public/inc/views/clock-leaves.php:14
+msgid "No."
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:93
+#: admin/inc/controllers/clock-employees-panel.php:45
+#: admin/inc/controllers/clock-employees-panel.php:234
+#: admin/inc/controllers/clock-employees-panel.php:511
+#: admin/inc/views/target/add.php:73 admin/inc/views/target/edit.php:72
+#: admin/inc/views/target/view.php:30 public/inc/views/targets/view.php:10
+msgid "Employee"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:94
+#: admin/inc/views/target/add.php:91 admin/inc/views/target/edit.php:90
+#: admin/inc/views/target/view.php:29 public/inc/views/targets/view.php:9
+msgid "Target"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:95
+#: public/inc/views/targets/view.php:13
+msgid "Progress"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:96
+#: admin/inc/controllers/clock-dashboard-panel.php:164
+#: admin/inc/controllers/clock-departments-panel.php:39
+#: admin/inc/controllers/clock-departments-panel.php:80
+#: admin/inc/controllers/clock-departments-panel.php:111
+#: admin/inc/controllers/clock-employees-panel.php:241
+#: admin/inc/controllers/clock-employees-panel.php:518
+#: admin/inc/controllers/clock-events-panel.php:54
+#: admin/inc/controllers/clock-events-panel.php:106
+#: admin/inc/controllers/clock-holidays-panel.php:65
+#: admin/inc/controllers/clock-holidays-panel.php:128
+#: admin/inc/controllers/clock-holidays-panel.php:158
+#: admin/inc/controllers/clock-leaves-panel.php:65
+#: admin/inc/controllers/clock-leaves-panel.php:96
+#: admin/inc/controllers/clock-reports-panel.php:95
+#: admin/inc/controllers/clock-shifts-panel.php:70
+#: admin/inc/controllers/clock-shifts-panel.php:138
+#: admin/inc/controllers/clock-shifts-panel.php:169
+#: admin/inc/views/target/add.php:101 admin/inc/views/target/edit.php:98
+#: admin/inc/views/target/view.php:34 public/clock-shortcode.php:196
+#: public/clock-shortcode.php:240 public/inc/views/clock-leaves.php:18
+#: public/inc/views/clock-reports.php:67 public/inc/views/targets/view.php:12
+msgid "Status"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:155
+msgid "Employee's status"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:161
+#: admin/inc/controllers/clock-departments-panel.php:27
+#: admin/inc/controllers/clock-departments-panel.php:68
+#: admin/inc/controllers/clock-departments-panel.php:108
+#: admin/inc/controllers/clock-employees-panel.php:65
+#: admin/inc/controllers/clock-employees-panel.php:342
+#: admin/inc/controllers/clock-holidays-panel.php:155
+#: admin/inc/controllers/clock-shifts-panel.php:31
+#: admin/inc/controllers/clock-shifts-panel.php:99
+#: admin/inc/controllers/clock-shifts-panel.php:165
+#: admin/inc/helpers/clock-helper.php:1323
+msgid "Name"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:162
+#: admin/inc/controllers/clock-reports-panel.php:88
+#: admin/inc/helpers/clock-helper.php:1351 public/clock-shortcode.php:192
+#: public/inc/views/clock-reports.php:63
+msgid "Date"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:163
+#: admin/inc/controllers/clock-reports-panel.php:89
+#: public/clock-shortcode.php:193 public/inc/views/clock-reports.php:64
+msgid "Day"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:181
+#: admin/inc/controllers/clock-employees-panel.php:615
+msgid "Online"
+msgstr ""
+
+#: admin/inc/controllers/clock-dashboard-panel.php:184
+#: admin/inc/controllers/clock-employees-panel.php:619
+msgid "Offline"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:13
+#: admin/inc/controllers/clock-employees-panel.php:17
+#: admin/inc/controllers/clock-events-panel.php:17
+#: admin/inc/controllers/clock-holidays-panel.php:17
+#: admin/inc/controllers/clock-shifts-panel.php:16
+#: admin/inc/views/target/view.php:16
+msgid "Add New"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:19
+msgid "Add New Department"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:33
+#: admin/inc/controllers/clock-departments-panel.php:74
+msgid "Color Code"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:42
+#: admin/inc/controllers/clock-departments-panel.php:83
+#: admin/inc/controllers/clock-employees-panel.php:244
+#: admin/inc/controllers/clock-employees-panel.php:521
+#: admin/inc/controllers/clock-events-panel.php:57
+#: admin/inc/controllers/clock-events-panel.php:109
+#: admin/inc/controllers/clock-holidays-panel.php:68
+#: admin/inc/controllers/clock-holidays-panel.php:131
+#: admin/inc/controllers/clock-shifts-panel.php:73
+#: admin/inc/controllers/clock-shifts-panel.php:141
+msgid "Active"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:43
+#: admin/inc/controllers/clock-departments-panel.php:84
+#: admin/inc/controllers/clock-employees-panel.php:245
+#: admin/inc/controllers/clock-employees-panel.php:522
+#: admin/inc/controllers/clock-events-panel.php:58
+#: admin/inc/controllers/clock-events-panel.php:110
+#: admin/inc/controllers/clock-holidays-panel.php:69
+#: admin/inc/controllers/clock-holidays-panel.php:132
+#: admin/inc/controllers/clock-shifts-panel.php:74
+#: admin/inc/controllers/clock-shifts-panel.php:142
+msgid "Inactive"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:47
+#: admin/inc/controllers/clock-departments-panel.php:89
+#: admin/inc/controllers/clock-employees-panel.php:317
+#: admin/inc/controllers/clock-employees-panel.php:595
+#: admin/inc/controllers/clock-events-panel.php:62
+#: admin/inc/controllers/clock-events-panel.php:115
+#: admin/inc/controllers/clock-holidays-panel.php:73
+#: admin/inc/controllers/clock-holidays-panel.php:137
+#: admin/inc/controllers/clock-leaves-panel.php:75
+#: admin/inc/controllers/clock-reports-panel.php:73
+#: admin/inc/controllers/clock-shifts-panel.php:78
+#: admin/inc/controllers/clock-shifts-panel.php:147
+#: admin/inc/views/target/add.php:114 admin/inc/views/target/edit.php:112
+#: admin/inc/views/target/target.php:135 public/clock-shortcode.php:163
+#: public/clock-shortcode.php:332 public/clock-shortcode.php:389
+#: public/inc/views/clock-dashboard.php:217
+#: public/inc/views/clock-leaves.php:109 public/inc/views/clock-leaves.php:166
+#: public/inc/views/clock-reports.php:34
+msgid "Submit"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:60
+msgid "Edit Department"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:107
+#: admin/inc/controllers/clock-leaves-panel.php:92
+#: admin/inc/controllers/clock-shifts-panel.php:164
+#: admin/inc/views/target/view.php:28 public/inc/views/targets/view.php:8
+msgid "S No. #"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:109
+#: admin/inc/controllers/clock-shifts-panel.php:168
+msgid "Members"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:110
+msgid "Color"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:112
+#: admin/inc/controllers/clock-leaves-panel.php:97
+#: admin/inc/controllers/clock-reports-panel.php:96
+#: admin/inc/controllers/clock-shifts-panel.php:170
+#: admin/inc/views/target/view.php:35 public/clock-shortcode.php:197
+#: public/clock-shortcode.php:241 public/inc/views/clock-leaves.php:19
+#: public/inc/views/clock-reports.php:68
+msgid "Actions"
+msgstr ""
+
+#: admin/inc/controllers/clock-departments-panel.php:144
+#: admin/inc/controllers/clock-employees-panel.php:670
+#: admin/inc/controllers/clock-events-panel.php:140
+#: admin/inc/controllers/clock-holidays-panel.php:185
+#: admin/inc/controllers/clock-leaves-panel.php:125
+#: admin/inc/controllers/clock-shifts-panel.php:211
+#: public/clock-shortcode.php:273 public/inc/views/clock-leaves.php:50
+msgid "Delete"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:24
+#: admin/inc/controllers/clock-employees-panel.php:330
+msgid "Add New Employee"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:34
+msgid "Entry"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:37
+msgid "Create new user"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:38
+msgid "Existing user"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:48
+msgid "Choose user..."
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:63
+#: admin/inc/controllers/clock-employees-panel.php:340
+msgid "Staff Name"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:71
+#: admin/inc/controllers/clock-employees-panel.php:348
+msgid "Email Address"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:74
+#: admin/inc/controllers/clock-employees-panel.php:351
+#: public/inc/views/clock-profile.php:53
+msgid "Email"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:86
+#: admin/inc/controllers/clock-employees-panel.php:363
+#: public/inc/views/clock-profile.php:63
+msgid "Date of Birth"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:99
+#: admin/inc/controllers/clock-employees-panel.php:376
+#: public/inc/views/clock-profile.php:76
+msgid "Gender"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:104
+#: admin/inc/controllers/clock-employees-panel.php:381
+#: public/inc/views/clock-profile.php:81
+msgid "Male"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:112
+#: admin/inc/controllers/clock-employees-panel.php:389
+#: public/inc/views/clock-profile.php:89
+msgid "Female"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:122
+#: admin/inc/controllers/clock-employees-panel.php:399
+#: public/inc/views/clock-profile.php:99
+msgid "Department"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:136
+#: admin/inc/controllers/clock-employees-panel.php:413
+#: public/inc/views/clock-profile.php:107
+msgid "Designation"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:146
+#: admin/inc/controllers/clock-employees-panel.php:423
+msgid "Shift"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:160
+#: admin/inc/controllers/clock-employees-panel.php:437
+msgid "Salary"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:160
+#: admin/inc/controllers/clock-employees-panel.php:437
+#: admin/inc/controllers/clock-settings-panel.php:21
+#: admin/inc/controllers/clock-settings-panel.php:24
+#: admin/inc/controllers/clock-settings-panel.php:27
+msgid "Pro"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:170
+#: admin/inc/controllers/clock-employees-panel.php:447
+#: public/inc/views/clock-profile.php:117
+msgid "Company date of joining"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:173
+#: admin/inc/controllers/clock-employees-panel.php:450
+msgid "Enter joining date"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:183
+#: admin/inc/controllers/clock-employees-panel.php:460
+#: public/inc/views/clock-profile.php:125
+msgid "Phone"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:185
+#: admin/inc/controllers/clock-employees-panel.php:462
+msgid "Enter phone no with country code"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:193
+#: admin/inc/controllers/clock-employees-panel.php:470
+#: public/inc/views/clock-profile.php:135
+msgid "Facebook ID"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:201
+#: admin/inc/controllers/clock-employees-panel.php:478
+#: public/inc/views/clock-profile.php:143
+msgid "Skype ID"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:210
+#: admin/inc/controllers/clock-employees-panel.php:487
+msgid "Upload profile photo"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:219
+#: admin/inc/controllers/clock-employees-panel.php:496
+msgid "Upload"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:222
+#: admin/inc/controllers/clock-employees-panel.php:499
+#: public/inc/views/clock-profile.php:153
+msgid "Address"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:230
+#: admin/inc/controllers/clock-employees-panel.php:507
+msgid "Role"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:233
+#: admin/inc/controllers/clock-employees-panel.php:510
+msgid "HR Manager"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:251
+#: admin/inc/controllers/clock-employees-panel.php:528
+#: public/inc/views/clock-profile.php:162
+msgid "Bank Account Details"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:255
+#: admin/inc/controllers/clock-employees-panel.php:532
+#: public/inc/views/clock-profile.php:166
+msgid "Account holder name*"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:263
+#: admin/inc/controllers/clock-employees-panel.php:540
+#: public/inc/views/clock-profile.php:174
+msgid "Bank Name*"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:273
+#: admin/inc/controllers/clock-employees-panel.php:550
+#: public/inc/views/clock-profile.php:184
+msgid "Account Number*"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:281
+#: admin/inc/controllers/clock-employees-panel.php:558
+#: public/inc/views/clock-profile.php:192
+msgid "Bank Identifier Code/IFSC Code*"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:291
+#: admin/inc/controllers/clock-employees-panel.php:568
+#: public/inc/views/clock-profile.php:202
+msgid "Branch Location*"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:299
+#: admin/inc/controllers/clock-employees-panel.php:576
+#: public/inc/views/clock-profile.php:210
+msgid "Tax Payer Id"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:306
+#: admin/inc/controllers/clock-employees-panel.php:583
+msgid "Login Details"
+msgstr ""
+
+#: admin/inc/controllers/clock-employees-panel.php:310
+#: admin/inc/controllers/clock-employees-panel.php:587
+msgid "Username*"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:16
+#: admin/inc/controllers/clock-menu-panel.php:40
+#: admin/inc/views/nav/nav.php:53
+msgid "Events"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:23
+msgid "Add New Event"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:31
+#: admin/inc/controllers/clock-events-panel.php:83
+#: admin/inc/controllers/clock-holidays-panel.php:31
+#: admin/inc/controllers/clock-holidays-panel.php:94
+#: admin/inc/views/target/add.php:27 admin/inc/views/target/edit.php:24
+msgid "Title"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:33
+msgid "Event title"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:37
+#: admin/inc/controllers/clock-events-panel.php:89
+msgid "Event date"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:40
+#: admin/inc/controllers/clock-events-panel.php:92
+#: admin/inc/controllers/clock-holidays-panel.php:46
+#: admin/inc/controllers/clock-holidays-panel.php:57
+#: admin/inc/controllers/clock-holidays-panel.php:109
+#: admin/inc/controllers/clock-holidays-panel.php:120
+#: admin/inc/controllers/clock-leaves-panel.php:45
+#: admin/inc/controllers/clock-leaves-panel.php:56
+#: admin/inc/views/target/add.php:38 admin/inc/views/target/add.php:61
+#: admin/inc/views/target/edit.php:35 admin/inc/views/target/edit.php:60
+#: public/clock-shortcode.php:312 public/clock-shortcode.php:323
+#: public/clock-shortcode.php:368 public/clock-shortcode.php:379
+#: public/inc/views/clock-leaves.php:89 public/inc/views/clock-leaves.php:100
+#: public/inc/views/clock-leaves.php:145 public/inc/views/clock-leaves.php:156
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:48
+#: admin/inc/controllers/clock-events-panel.php:100
+#: admin/inc/controllers/clock-holidays-panel.php:37
+#: admin/inc/controllers/clock-holidays-panel.php:100
+#: admin/inc/views/target/add.php:50 admin/inc/views/target/edit.php:47
+msgid "Description"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:50
+msgid "Event content"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:75
+msgid "Edit Notice"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:85
+msgid "Notice title"
+msgstr ""
+
+#: admin/inc/controllers/clock-events-panel.php:102
+msgid "Notice content"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:21
+msgid "Price:- $28 ( Lifetime Update & Support )"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:27
+msgid "Pro Features"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:29
+msgid "User Management ( Admin / Employee / HR / Department Head )"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:30
+msgid "Shift Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:31
+msgid "Department Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:32
+msgid "Holiday Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:33
+msgid "Event Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:34
+msgid "Notice Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:35
+msgid "Attendance Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:36
+msgid "Month Wise Full Attendance Report"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:37
+msgid "Email Notification Alert"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:38
+msgid "SMS Notification Alert"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:39
+msgid "Notification Templates"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:40
+msgid "Salary Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:41
+msgid "Project Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:42
+msgid "Task Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:43
+msgid "Generate Reports"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:44
+msgid "Leaves Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:45
+msgid "Payroll Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:46
+msgid "Reimbursement Management"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:47
+msgid "Payslip Generation"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:48
+msgid "Export Attendance Reports(CSV)"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:49
+msgid "Import Attendance Reports(CSV)"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:50
+msgid "Calculated Working Hours"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:51
+msgid "Frontend Shortcodes for Dashboard"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:52
+msgid "Frontend & Backend Interface( Dashboard for employees )"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:53
+msgid "Centralizes Dashboard for Administrator"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:54
+msgid "Notify Admin When Employee Clock IN/OUT"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:55
+msgid "Translation Ready"
+msgstr ""
+
+#: admin/inc/controllers/clock-help-panel.php:56
+msgid "And many other features"
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:16
+#: admin/inc/controllers/clock-menu-panel.php:46
+#: admin/inc/views/nav/nav.php:59 public/clock-shortcode.php:411
+#: public/inc/views/clock-dashboard.php:50
+#: public/inc/views/clock-holiday.php:1
+msgid "Holidays"
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:23
+msgid "Add New Holiday"
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:43
+#: admin/inc/controllers/clock-holidays-panel.php:106
+#: admin/inc/controllers/clock-leaves-panel.php:42
+#: public/clock-shortcode.php:309 public/clock-shortcode.php:365
+#: public/inc/views/clock-leaves.php:86 public/inc/views/clock-leaves.php:142
+msgid "From"
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:54
+#: admin/inc/controllers/clock-holidays-panel.php:117
+#: admin/inc/controllers/clock-leaves-panel.php:53
+#: public/clock-shortcode.php:320 public/clock-shortcode.php:376
+#: public/inc/views/clock-leaves.php:97 public/inc/views/clock-leaves.php:153
+msgid "To"
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:86
+msgid "Edit Holiday"
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:154
+msgid "S No."
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:156
+#: admin/inc/controllers/clock-leaves-panel.php:94
+#: public/clock-shortcode.php:238 public/inc/views/clock-leaves.php:16
+msgid "Date(s)"
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:157
+#: admin/inc/helpers/clock-helper.php:784
+msgid "Days"
+msgstr ""
+
+#: admin/inc/controllers/clock-holidays-panel.php:159
+msgid "Action"
+msgstr ""
+
+#: admin/inc/controllers/clock-leaves-panel.php:22
+#: public/clock-shortcode.php:289 public/clock-shortcode.php:345
+#: public/inc/views/clock-leaves.php:66 public/inc/views/clock-leaves.php:122
+msgid "Submit your leave request"
+msgstr ""
+
+#: admin/inc/controllers/clock-leaves-panel.php:30
+#: admin/inc/controllers/clock-leaves-panel.php:93
+#: public/clock-shortcode.php:237 public/clock-shortcode.php:297
+#: public/clock-shortcode.php:353 public/inc/views/clock-leaves.php:15
+#: public/inc/views/clock-leaves.php:74 public/inc/views/clock-leaves.php:130
+msgid "Subject"
+msgstr ""
+
+#: admin/inc/controllers/clock-leaves-panel.php:36
+#: admin/inc/controllers/clock-leaves-panel.php:95
+#: public/clock-shortcode.php:239 public/clock-shortcode.php:303
+#: public/clock-shortcode.php:359 public/inc/views/clock-leaves.php:17
+#: public/inc/views/clock-leaves.php:80 public/inc/views/clock-leaves.php:136
+msgid "Reason"
+msgstr ""
+
+#: admin/inc/controllers/clock-leaves-panel.php:68
+msgid "Pending"
+msgstr ""
+
+#: admin/inc/controllers/clock-leaves-panel.php:69
+msgid "Approved"
+msgstr ""
+
+#: admin/inc/controllers/clock-leaves-panel.php:70
+msgid "Cancelled"
+msgstr ""
+
+#: admin/inc/controllers/clock-menu-panel.php:10
+#: admin/inc/controllers/clock-menu-panel.php:16
+msgid "Clockinator Lite"
+msgstr ""
+
+#: admin/inc/controllers/clock-menu-panel.php:16
+#: admin/inc/views/nav/nav.php:29 public/inc/views/clock-dashboard.php:46
+msgid "Dashboard"
+msgstr ""
+
+#: admin/inc/controllers/clock-menu-panel.php:56
+#, php-format
+msgid "Leaves <span class=\"awaiting-mod\">%d</span>"
+msgstr ""
+
+#: admin/inc/controllers/clock-menu-panel.php:56
+#: admin/inc/controllers/clock-menu-panel.php:58
+#: admin/inc/views/nav/nav.php:65 public/inc/views/clock-dashboard.php:49
+msgid "Leaves"
+msgstr ""
+
+#: admin/inc/controllers/clock-menu-panel.php:64
+#: admin/inc/views/nav/nav.php:71 admin/inc/views/target/view.php:14
+#: public/inc/views/clock-dashboard.php:48
+msgid "Targets"
+msgstr ""
+
+#: admin/inc/controllers/clock-menu-panel.php:70
+#: admin/inc/controllers/clock-reports-panel.php:17
+#: admin/inc/views/nav/nav.php:77 public/inc/views/clock-dashboard.php:51
+msgid "Reports"
+msgstr ""
+
+#: admin/inc/controllers/clock-menu-panel.php:76
+#: admin/inc/views/nav/nav.php:15
+msgid "Settings"
+msgstr ""
+
+#: admin/inc/controllers/clock-menu-panel.php:88
+msgid "Our Products"
+msgstr ""
+
+#: admin/inc/controllers/clock-products-panel.php:15
+msgid "Projectify Pro - Advance Project Management System"
+msgstr ""
+
+#: admin/inc/controllers/clock-products-panel.php:30
+msgid "Dcode Premium WordPress Theme"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:24
+#: public/clock-shortcode.php:176 public/inc/views/clock-reports.php:47
+msgid "Daily Report"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:42
+#: public/clock-shortcode.php:141 public/inc/views/clock-reports.php:12
+msgid "Select Any Filter ( individual Months )"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:47
+#: public/clock-shortcode.php:146 public/inc/views/clock-reports.php:17
+msgid "Select Any Filter ( Combine Months )"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:48
+#: public/clock-shortcode.php:147 public/inc/views/clock-reports.php:18
+msgid "Previous Three Month"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:49
+#: public/clock-shortcode.php:148 public/inc/views/clock-reports.php:19
+msgid "Previous Six Month"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:50
+#: public/clock-shortcode.php:149 public/inc/views/clock-reports.php:20
+msgid "Previous Nine Month"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:51
+#: public/clock-shortcode.php:150 public/inc/views/clock-reports.php:21
+msgid "Previous One Year"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:57
+#: public/clock-shortcode.php:156 public/inc/views/clock-reports.php:27
+msgid "All days"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:58
+#: public/clock-shortcode.php:157 public/inc/views/clock-reports.php:28
+msgid "Only Absent Days"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:59
+#: public/clock-shortcode.php:158 public/inc/views/clock-reports.php:29
+msgid "Only Attend days"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:93
+msgid "IP Address"
+msgstr ""
+
+#: admin/inc/controllers/clock-reports-panel.php:94
+msgid "Location"
+msgstr ""
+
+#: admin/inc/controllers/clock-settings-panel.php:18
+msgid "General Settings"
+msgstr ""
+
+#: admin/inc/controllers/clock-settings-panel.php:21
+msgid "Email Templates"
+msgstr ""
+
+#: admin/inc/controllers/clock-settings-panel.php:24
+msgid "SMS Templates"
+msgstr ""
+
+#: admin/inc/controllers/clock-settings-panel.php:27
+msgid "Notification Settings"
+msgstr ""
+
+#: admin/inc/controllers/clock-settings-panel.php:30
+msgid "String Translation"
+msgstr ""
+
+#: admin/inc/controllers/clock-settings-panel.php:33
+msgid "Shortcodes & Support"
+msgstr ""
+
+#: admin/inc/controllers/clock-shifts-panel.php:23
+msgid "Add New Shift"
+msgstr ""
+
+#: admin/inc/controllers/clock-shifts-panel.php:33
+#: admin/inc/controllers/clock-shifts-panel.php:101
+msgid "Shift Name"
+msgstr ""
+
+#: admin/inc/controllers/clock-shifts-panel.php:37
+#: admin/inc/controllers/clock-shifts-panel.php:105
+msgid "Start Time"
+msgstr ""
+
+#: admin/inc/controllers/clock-shifts-panel.php:40
+#: admin/inc/controllers/clock-shifts-panel.php:51
+#: admin/inc/controllers/clock-shifts-panel.php:62
+#: admin/inc/controllers/clock-shifts-panel.php:108
+#: admin/inc/controllers/clock-shifts-panel.php:119
+#: admin/inc/controllers/clock-shifts-panel.php:130
+msgid "HH:MM AM/PM"
+msgstr ""
+
+#: admin/inc/controllers/clock-shifts-panel.php:48
+#: admin/inc/controllers/clock-shifts-panel.php:116
+msgid "End Time"
+msgstr ""
+
+#: admin/inc/controllers/clock-shifts-panel.php:59
+#: admin/inc/controllers/clock-shifts-panel.php:127
+#: admin/inc/controllers/clock-shifts-panel.php:167
+msgid "Late Time"
+msgstr ""
+
+#: admin/inc/controllers/clock-shifts-panel.php:91
+msgid "Edit Shift"
+msgstr ""
+
+#: admin/inc/controllers/clock-shifts-panel.php:166
+msgid "Timing"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:508
+msgid "One day leave on "
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:510
+msgid " days leave from "
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:510
+msgid " to "
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1075
+msgid "Hours"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1077
+msgid "00:00"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1192
+msgid "Login Alert From Clockify"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1193
+msgid "Logout Alert From Clockify"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1194
+msgid "Employee Login/Logout Details"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1379
+msgid "Office IN"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1408
+msgid "Office OUT"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1438
+msgid "User IP"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1470
+msgid "User Location"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1506
+msgid "Mail sent"
+msgstr ""
+
+#: admin/inc/helpers/clock-helper.php:1508
+msgid "Mail not sent"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:46
+msgid "Company Name:"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:54
+msgid "TimeZone:"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:57
+msgid "Select timezone"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:69
+msgid "Date format:"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:84
+msgid "Time format:"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:99
+msgid "Halfday Start Time"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:112
+msgid "Halfday End Time"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:127
+msgid "Currency Symbol"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:135
+msgid "Currency Position"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:138
+msgid "Right"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:139
+msgid "Left"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:148
+msgid "Show Employee Avatar:"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:154
+msgid "Yes"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:163
+msgid "No"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:170
+msgid "Week days status"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:174
+msgid "Monday"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:177
+#: admin/inc/settings/clock-general-settings.php:189
+#: admin/inc/settings/clock-general-settings.php:201
+#: admin/inc/settings/clock-general-settings.php:215
+#: admin/inc/settings/clock-general-settings.php:227
+#: admin/inc/settings/clock-general-settings.php:239
+#: admin/inc/settings/clock-general-settings.php:253
+msgid "Working"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:178
+#: admin/inc/settings/clock-general-settings.php:190
+#: admin/inc/settings/clock-general-settings.php:202
+#: admin/inc/settings/clock-general-settings.php:216
+#: admin/inc/settings/clock-general-settings.php:228
+#: admin/inc/settings/clock-general-settings.php:240
+#: admin/inc/settings/clock-general-settings.php:254
+msgid "Halfday"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:179
+#: admin/inc/settings/clock-general-settings.php:191
+#: admin/inc/settings/clock-general-settings.php:203
+#: admin/inc/settings/clock-general-settings.php:217
+#: admin/inc/settings/clock-general-settings.php:229
+#: admin/inc/settings/clock-general-settings.php:241
+#: admin/inc/settings/clock-general-settings.php:255
+msgid "Off"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:186
+msgid "Tuesday"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:198
+msgid "Wednesday"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:212
+msgid "Thursday"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:224
+msgid "Friday"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:236
+msgid "Saturday"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:250
+msgid "Sunday"
+msgstr ""
+
+#: admin/inc/settings/clock-general-settings.php:261
+#: admin/inc/settings/clock-string-translation.php:102
+#: public/inc/views/clock-profile.php:217
+msgid "Save"
+msgstr ""
+
+#: admin/inc/settings/clock-string-translation.php:15
+msgid "Strings"
+msgstr ""
+
+#: admin/inc/settings/clock-string-translation.php:63
+msgid "Up-coming Holidays"
+msgstr ""
+
+#: admin/inc/settings/clock-string-translation.php:71
+msgid "Up-coming Events"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:1
+msgid "List of all shortcodes"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:4
+msgid "Employee Complete Dashboard"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:6
+msgid ""
+"By using this template you can display complete employee frontend dashboard "
+"just copy this and paste it to any page or post."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:9
+msgid "Employee Last Day Working Hours"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:11
+msgid ""
+"you can use this shortcode to display your staff's last day working hours."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:14 public/clock-shortcode.php:50
+#: public/inc/views/clock-dashboard.php:83
+msgid "Total Attendance"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:16
+msgid ""
+"you can use this shortcode to display your staff's Total Present days of "
+"current month."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:19 public/clock-shortcode.php:76
+#: public/inc/views/clock-dashboard.php:98
+msgid "Total Absents"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:21
+msgid ""
+"you can use this shortcode to display your staff's Total Absent days of "
+"current month."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:24
+msgid "Clock In Login Action Buttons"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:26
+msgid ""
+"This will generate or display Clockify \"Clock In\" or \"Clock Out\" buttons "
+"for employee so they can clockin or clockout."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:29
+msgid "Employee Attendance Reports Panel"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:31
+msgid ""
+"This will display Attendace panel for your employee's on frontend from they "
+"can generate their attendance reports."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:34
+msgid "Employee Leave Request Panel"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:36
+msgid "This will display Leave Request panel for your employeers."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:39
+msgid "Employee Profile Panel"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:41
+msgid ""
+"This will display Profile panel for your employeers in this panel employee "
+"profile details will display."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:44
+msgid "Display All Holidays List"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:46
+msgid "It will display all holiday dates list."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:49
+msgid "Display only Upcoming Holidays"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:51
+msgid ""
+"It will display only upcoming holiday dates which are near or lies with in "
+"current month."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:54
+msgid "Display only Upcoming Events"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:56
+msgid ""
+"It will display only upcoming Events dates which are near or lies with in "
+"current month."
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:60
+msgid "For any query or support"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:61
+msgid ""
+"If you have any query or required any support then we are here to help you "
+"out just "
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:62
+msgid "click"
+msgstr ""
+
+#: admin/inc/settings/clock-support.php:62
+msgid " this link to get support from our team."
+msgstr ""
+
+#: admin/inc/views/nav/nav.php:83
+msgid "Payslip"
+msgstr ""
+
+#: admin/inc/views/nav/nav.php:89
+msgid "Documentation"
+msgstr ""
+
+#: admin/inc/views/target/add.php:16
+msgid "Target Details:"
+msgstr ""
+
+#: admin/inc/views/target/add.php:29 admin/inc/views/target/edit.php:26
+msgid "Enter title"
+msgstr ""
+
+#: admin/inc/views/target/add.php:35 admin/inc/views/target/edit.php:32
+msgid "Start"
+msgstr ""
+
+#: admin/inc/views/target/add.php:58 admin/inc/views/target/edit.php:57
+msgid "End"
+msgstr ""
+
+#: admin/inc/views/target/add.php:77 admin/inc/views/target/edit.php:76
+msgid "Select Employee..."
+msgstr ""
+
+#: admin/inc/views/target/add.php:93 admin/inc/views/target/edit.php:92
+msgid "Enter just target value Like:- 2000"
+msgstr ""
+
+#: admin/inc/views/target/add.php:104 admin/inc/views/target/edit.php:101
+msgid "Initiated"
+msgstr ""
+
+#: admin/inc/views/target/add.php:105 admin/inc/views/target/edit.php:102
+msgid "Completed"
+msgstr ""
+
+#: admin/inc/views/target/edit.php:14
+msgid "Edit Target Details:"
+msgstr ""
+
+#: admin/inc/views/target/target.php:37
+msgid "Target details"
+msgstr ""
+
+#: admin/inc/views/target/target.php:44 public/inc/views/targets/target.php:37
+msgid "Target:"
+msgstr ""
+
+#: admin/inc/views/target/target.php:48 public/inc/views/targets/target.php:41
+msgid "Employee:"
+msgstr ""
+
+#: admin/inc/views/target/target.php:52 public/inc/views/targets/target.php:45
+msgid "Time period:"
+msgstr ""
+
+#: admin/inc/views/target/target.php:58 public/inc/views/targets/target.php:51
+msgid "Status:"
+msgstr ""
+
+#: admin/inc/views/target/target.php:75 public/inc/views/targets/target.php:69
+msgid "Target progress status"
+msgstr ""
+
+#: admin/inc/views/target/target.php:103
+msgid "Insert target records"
+msgstr ""
+
+#: admin/inc/views/target/target.php:112
+msgid "Select Date"
+msgstr ""
+
+#: admin/inc/views/target/target.php:115
+msgid "MM-DD-YYYY"
+msgstr ""
+
+#: admin/inc/views/target/target.php:125
+msgid "Reached Target Value"
+msgstr ""
+
+#: admin/inc/views/target/target.php:127
+msgid "Enter just target value Like:- 20"
+msgstr ""
+
+#: admin/inc/views/target/target.php:147
+#: public/inc/views/targets/target.php:97
+msgid "Target records graph"
+msgstr ""
+
+#: admin/inc/views/target/view.php:31 public/inc/views/targets/view.php:11
+msgid "Time Period"
+msgstr ""
+
+#: admin/inc/views/target/view.php:32
+msgid "Target Value"
+msgstr ""
+
+#: admin/inc/views/target/view.php:33
+msgid "Reached Value"
+msgstr ""
+
+#: public/clock-shortcode.php:27 public/inc/views/clock-dashboard.php:73
+msgid "Last day working hours"
+msgstr ""
+
+#: public/clock-shortcode.php:207
+msgid "Summary"
+msgstr ""
+
+#: public/clock-shortcode.php:229 public/inc/views/clock-leaves.php:7
+msgid "Add Request"
+msgstr ""
+
+#: public/clock-shortcode.php:427 public/inc/views/clock-holiday.php:17
+msgid ". "
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:44
+msgid "Successfully clock in, Your login session is started now."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:49
+#: public/inc/actions/clock-btn-actions.php:103
+msgid "Not Found"
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:53
+msgid "Clock-in not successfull."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:98
+msgid "Successfully clock out, Your login session is end now."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:107
+msgid "Clock-out not successfull."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:169
+msgid "Successfully break in, Your break session is started now."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:172
+msgid "Break in not successfull."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:229
+msgid "Successfully break out, Your break session is end now."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:232
+msgid "Break out not successfull."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:266
+msgid "Work report submitted successfully."
+msgstr ""
+
+#: public/inc/actions/clock-btn-actions.php:269
+msgid "Work report not submitted successfully."
+msgstr ""
+
+#: public/inc/actions/clock-reports-actions.php:208
+msgid " Break In Time"
+msgstr ""
+
+#: public/inc/actions/clock-reports-actions.php:257
+msgid "Details Fetch!."
+msgstr ""
+
+#: public/inc/controllers/class-page-template.php:11
+msgid "Employer Dashboard"
+msgstr ""
+
+#: public/inc/views/clock-dashboard.php:52
+msgid "Profile"
+msgstr ""
+
+#: public/inc/views/clock-dashboard.php:53
+msgid "Logout"
+msgstr ""
+
+#: public/inc/views/clock-dashboard.php:203
+msgid "Submit Your Session Work Report"
+msgstr ""
+
+#: public/inc/views/clock-dashboard.php:212
+msgid "Report content goes here......"
+msgstr ""
+
+#: public/inc/views/clock-dashboard.php:233
+msgid "You need to login first."
+msgstr ""
+
+#: public/inc/views/clock-dashboard.php:259
+msgid ""
+"You are not registored in Clockify system. So you can not access this page."
+msgstr ""
+
+#: public/inc/views/clock-profile.php:27
+msgid "Username"
+msgstr ""
+
+#: public/inc/views/clock-profile.php:35
+msgid "First name"
+msgstr ""
+
+#: public/inc/views/clock-profile.php:45
+msgid "Last name"
+msgstr ""
+
+#: public/inc/views/clock-profile.php:55
+msgid "Your email"
+msgstr ""
+
+#: public/inc/views/targets/target.php:31
+msgid "Target Details"
+msgstr ""
+
+#: public/inc/views/targets/target.php:62
+msgid "Back to your targets"
+msgstr ""
